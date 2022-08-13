@@ -50,6 +50,8 @@
 
 1.手机QQ：先在Linux上使用ifconfig命令确定你的Linux所在的局域网的IPv4地址，在手机上访问http://“你的IP”:8888/即可
 
+<div align=center><img src="fileroot/1.png" height="429"/> </div>
+
 ![image](fileroot/1.png)
 ![image](fileroot/2.png)
 ![image](fileroot/3.png)
