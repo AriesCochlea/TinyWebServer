@@ -50,6 +50,15 @@
 
 1.手机QQ：先在Linux上使用ifconfig命令确定你的Linux所在的局域网的IPv4地址，在手机上访问http://“你的IP”:8888/即可
 
-2.MicroSoft Edge浏览器：在浏览器地址栏输入：http://127.0.0.1:8888/
-  
+![image](fileroot/1.png)
+![image](fileroot/2.png)
+![image](fileroot/3.png)
+![image](fileroot/4.png)
+![image](fileroot/5.png)
 
+
+2.MicroSoft Edge浏览器：在浏览器地址栏输入：http://127.0.0.1:8888/
+
+![image](fileroot/6.jpg)
+
+![image](fileroot/7.jpg)
