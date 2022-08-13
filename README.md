@@ -18,8 +18,6 @@
   
 
 
-
-
 ### 项目启动
 
 需要先安装和配置好Mysql数据库
@@ -42,22 +40,19 @@
 
 
 
-
-
 ### 运行效果
 
 注意：视频文件xxx.mp4（就叫这个名字！）需要你自己准备
 
 1.手机QQ：先在Linux上使用ifconfig命令确定你的Linux所在的局域网的IPv4地址，在手机上访问http://“你的IP”:8888/即可
 
-<div align=center><img src="fileroot/1.png" height="429"/> </div>
-
-![image](fileroot/1.png)
-![image](fileroot/2.png)
-![image](fileroot/3.png)
-![image](fileroot/4.png)
-![image](fileroot/5.png)
-
+<div>
+  <img src="fileroot/1.png" height="300" width=19%/>
+  <img src="fileroot/2.png" height="300" width=19%/>
+  <img src="fileroot/3.png" height="300" width=19%/>
+  <img src="fileroot/4.png" height="300" width=19%/>
+  <img src="fileroot/5.png" height="300" width=19%/>
+</div>
 
 2.MicroSoft Edge浏览器：在浏览器地址栏输入：http://127.0.0.1:8888/
 
